@@ -1,0 +1,8 @@
+{
+  "sectionTitle": "Our Partnerships",
+  "items": [
+    { "name": "Microsoft", "image": "/partnerships/microsoft.svg" },
+    { "name": "AWS", "image": "/partnerships/aws.svg" },
+    { "name": "Google Cloud", "image": "/partnerships/google.svg" }
+  ]
+}

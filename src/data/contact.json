@@ -1,0 +1,59 @@
+{
+  "sectionTitle": "Get In Touch",
+  "form": {
+    "fields": [
+      { "name": "fullName", "label": "Full Name", "type": "text", "required": true },
+      { "name": "email", "label": "Email", "type": "email", "required": true },
+      { "name": "phone", "label": "Phone Number", "type": "tel", "required": false },
+      { "name": "company", "label": "Company Name", "type": "text", "required": false },
+      { "name": "companyUrl", "label": "Company URL", "type": "url", "required": false },
+      {
+        "name": "region",
+        "label": "Region",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Middle East & North Africa",
+          "USA",
+          "Canada",
+          "Kingdom of Saudi Arabia",
+          "Australia & New Zealand",
+          "Asia",
+          "Europe",
+          "United Kingdom",
+          "Jordan",
+          "Dubai / UAE",
+          "Pakistan",
+          "Rest of World"
+        ]
+      },
+      {
+        "name": "services",
+        "label": "Services you are looking for",
+        "type": "select",
+        "required": true,
+        "options": [
+          "Remote IT Resources",
+          "Custom Software Development",
+          "Web Development",
+          "Mobile App Development",
+          "AR/VR",
+          "Gaming",
+          "Cyber Security",
+          "Other IT Services"
+        ]
+      },
+      { "name": "projectDetails", "label": "Project Details", "type": "textarea", "required": true },
+      {
+        "name": "lookingForJob",
+        "label": "I am looking for a job at Viiva",
+        "type": "select",
+        "required": true,
+        "options": ["Please Select", "Yes", "No"]
+      }
+    ],
+    "submitLabel": "Submit",
+    "successMessage": "Thank you! Your submission has been received!",
+    "errorMessage": "Oops! Something went wrong while submitting the form."
+  }
+}

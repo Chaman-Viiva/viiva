@@ -1,0 +1,28 @@
+{
+  "sectionHeadline": "What's your stack?",
+  "sectionDescription": "We leverage a powerful and versatile tech stack tailored to meet diverse project needs. From cutting-edge front-end frameworks to robust back-end solutions, we ensure scalability, performance, and security.",
+  "categories": [
+    { "id": "all", "label": "All" },
+    { "id": "frontend", "label": "Frontend" },
+    { "id": "backend", "label": "Server Side" },
+    { "id": "databases", "label": "Databases" },
+    { "id": "devops", "label": "DevOps" }
+  ],
+  "technologies": [
+    { "name": "React", "category": "frontend", "logo": "react" },
+    { "name": "Next.js", "category": "frontend", "logo": "nextjs" },
+    { "name": "TypeScript", "category": "frontend", "logo": "typescript" },
+    { "name": "Vue.js", "category": "frontend", "logo": "vue" },
+    { "name": "Angular", "category": "frontend", "logo": "angular" },
+    { "name": "Node.js", "category": "backend", "logo": "node" },
+    { "name": "Python", "category": "backend", "logo": "python" },
+    { "name": ".NET", "category": "backend", "logo": "dotnet" },
+    { "name": "Java", "category": "backend", "logo": "java" },
+    { "name": "MongoDB", "category": "databases", "logo": "mongo" },
+    { "name": "PostgreSQL", "category": "databases", "logo": "postgres" },
+    { "name": "MySQL", "category": "databases", "logo": "mysql" },
+    { "name": "AWS", "category": "devops", "logo": "aws" },
+    { "name": "Docker", "category": "devops", "logo": "docker" },
+    { "name": "Kubernetes", "category": "devops", "logo": "k8s" }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "sectionHeadline": "Our Global Leadership",
+  "sectionSubheadline": "Our capability and competencies are bolstered by diverse global leadership.",
+  "cta": { "label": "Learn more", "href": "/about#leadership" },
+  "members": [
+    { "id": "1", "name": "Ali Khalaf", "role": "Founder & CEO", "linkedin": "#" },
+    { "id": "2", "name": "Chief Finance Officer", "role": "CFO", "linkedin": "#" },
+    { "id": "3", "name": "Chief of Staff", "role": "Chief of Staff", "linkedin": "#" },
+    { "id": "4", "name": "Chief Delivery Officer", "role": "CDO", "linkedin": "#" },
+    { "id": "5", "name": "Chief Business Officer", "role": "CBO", "linkedin": "#" },
+    { "id": "6", "name": "Head of Global Marketing", "role": "Marketing", "linkedin": "#" },
+    { "id": "7", "name": "Sr. VP Sales Engineering", "role": "Sales Engineering", "linkedin": "#" },
+    { "id": "8", "name": "Sr. VP E-Commerce & Digital Retail", "role": "E-Commerce", "linkedin": "#" },
+    { "id": "9", "name": "VP Human Assets", "role": "Human Assets", "linkedin": "#" },
+    { "id": "10", "name": "VP Professional Services", "role": "Professional Services", "linkedin": "#" }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "sectionTitle": "Awards and Certifications",
+  "items": [
+    { "name": "Top Software Company", "image": "/awards/award-1.svg" },
+    { "name": "Innovation Award", "image": "/awards/award-2.svg" },
+    { "name": "Best Mobile Development", "image": "/awards/award-3.svg" },
+    { "name": "ISO Certified", "image": "/awards/award-4.svg" }
+  ]
+}

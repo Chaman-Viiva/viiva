@@ -1,0 +1,262 @@
+{
+  "generative-ai": {
+    "id": "generative-ai",
+    "title": "Generative AI",
+    "tagline": "Transform operations and experiences with AI",
+    "description": "We help businesses leverage generative AI for automation, content, customer service, and decision support. From strategy and model selection to integration and governance, we deliver production-ready AI solutions.",
+    "whatWeOffer": ["AI strategy & use-case discovery", "LLM integration & fine-tuning", "RAG and knowledge bases", "Chatbots & virtual assistants", "Content generation pipelines", "Responsible AI & governance"],
+    "outcomes": ["Customer service automation reduced handling time by 50%.", "Internal knowledge base now answers 80% of staff queries via AI.", "Content pipeline cut manual drafting time by 70%."],
+    "caseStudyTitle": "How Generative AI is Transforming Business Operations",
+    "caseStudyHref": "/case-studies"
+  },
+  "dynamics-365-erp": {
+    "id": "dynamics-365-erp",
+    "title": "Dynamics 365 ERP",
+    "tagline": "Streamline operations and drive growth",
+    "description": "We implement and extend Microsoft Dynamics 365 ERP to unify finance, supply chain, and operations. From greenfield rollout to upgrades and integrations, we deliver on time and on budget.",
+    "whatWeOffer": ["D365 Finance & Operations implementation", "Supply chain & manufacturing", "Integrations (ERP, CRM, BI)", "Custom modules & workflows", "Training & change management", "Support & optimization"],
+    "outcomes": ["Single source of truth across 12 entities in 6 months.", "Order-to-cash cycle reduced by 40%.", "Month-end close cut from 10 days to 3."],
+    "caseStudyTitle": "Enterprise-wide D365 rollout in 6 months",
+    "caseStudyHref": "/case-studies"
+  },
+  "mobile-app": {
+    "id": "mobile-app",
+    "title": "Mobile App Development",
+    "tagline": "Native and cross-platform apps that users love",
+    "description": "We build iOS and Android apps — native or cross-platform (React Native, Flutter) — with a focus on performance, UX, and scalability. From MVP to enterprise, we ship on time.",
+    "whatWeOffer": ["Native iOS (Swift) & Android (Kotlin)", "Cross-platform (React Native, Flutter)", "UI/UX design & prototyping", "Backend APIs & integrations", "App Store & Play Store launch", "Maintenance & updates"],
+    "outcomes": ["Consumer app reached 1M+ downloads in first year.", "B2B app reduced field reporting time by 60%.", "Healthcare app HIPAA-compliant and used by 50K+ patients."],
+    "caseStudyTitle": "Trends of Mobile Design: What's Next for Your Business?",
+    "caseStudyHref": "/blog"
+  },
+  "staff-augmentation": {
+    "id": "staff-augmentation",
+    "title": "Staff Augmentation",
+    "tagline": "Scale your team with vetted talent",
+    "description": "Add developers, designers, and QA engineers to your team without the overhead of hiring. We match you with pre-vetted professionals who integrate seamlessly and deliver from day one.",
+    "whatWeOffer": ["Full-stack, front-end, back-end engineers", "UI/UX designers & product managers", "QA & DevOps specialists", "Flexible engagement (full-time, part-time)", "Fast onboarding (typically 1–2 weeks)", "Managed delivery & accountability"],
+    "outcomes": ["Startup scaled dev capacity 3x in 8 weeks.", "Enterprise filled 15 specialized roles in 30 days.", "Client retained same augmented team for 3+ years."],
+    "caseStudyTitle": "Scale your team without the hiring headache",
+    "caseStudyHref": "/contact"
+  },
+  "devops": {
+    "id": "devops",
+    "title": "DevOps",
+    "tagline": "CI/CD, infrastructure, and cloud-native delivery",
+    "description": "We design and implement DevOps practices and tooling: CI/CD pipelines, infrastructure as code, container orchestration, and observability. Ship faster and more reliably.",
+    "whatWeOffer": ["CI/CD (GitHub Actions, Azure DevOps, Jenkins)", "Containers (Docker, Kubernetes)", "Infrastructure as Code (Terraform, Bicep)", "Cloud (AWS, Azure, GCP)", "Monitoring & logging", "Security & compliance automation"],
+    "outcomes": ["Deployments increased from weekly to multiple per day.", "Mean time to recovery reduced by 70%.", "Infrastructure fully reproducible and documented."],
+    "caseStudyTitle": "From weekly releases to multiple deploys per day",
+    "caseStudyHref": "/case-studies"
+  },
+  "ui-ux": {
+    "id": "ui-ux",
+    "title": "UI/UX Design",
+    "tagline": "User-centered design that drives results",
+    "description": "We create intuitive, accessible, and visually compelling experiences for web and mobile. From research and wireframes to high-fidelity UI and design systems, we align design with your business goals.",
+    "whatWeOffer": ["User research & usability testing", "Information architecture & wireframes", "Visual design & UI kits", "Design systems & component libraries", "Prototyping & interaction design", "Accessibility (WCAG) & inclusive design"],
+    "outcomes": ["Redesigned app increased conversion by 35%.", "Design system cut design-dev handoff time by 50%.", "Accessibility audit and fixes achieved WCAG 2.1 AA."],
+    "caseStudyTitle": "Redesigned app increased conversion by 35%",
+    "caseStudyHref": "/case-studies"
+  },
+  "web-development": {
+    "id": "web-development",
+    "title": "Web Development",
+    "tagline": "Custom web applications and responsive sites",
+    "description": "We build fast, scalable web applications and websites using modern stacks (React, Next.js, Vue, .NET, Node). From marketing sites to complex web apps, we deliver quality and performance.",
+    "whatWeOffer": ["React, Next.js, Vue, Angular", "Server-side: Node.js, .NET, Python", "Headless CMS & e-commerce", "Responsive & mobile-first", "SEO & performance optimization", "Maintenance & support"],
+    "outcomes": ["Custom Web Application Development: Everything You Need to Know — see our blog.", "E-commerce site handled 5x traffic during peak with no downtime.", "Portal reduced manual processing time by 60%."],
+    "caseStudyTitle": "Custom Web Application Development: Everything You Need to Know",
+    "caseStudyHref": "/blog"
+  },
+  "custom-software": {
+    "id": "custom-software",
+    "title": "Custom Software Development",
+    "tagline": "Tailored solutions for your business",
+    "description": "When off-the-shelf doesn't fit, we build custom software: internal tools, workflows, integrations, and platforms. We focus on requirements, architecture, and long-term maintainability.",
+    "whatWeOffer": ["Discovery & requirements", "Architecture & tech stack selection", "Full-stack development", "Integrations & APIs", "Legacy modernization", "Ongoing evolution & support"],
+    "outcomes": ["Custom platform replaced 4 legacy systems and cut licensing costs 40%.", "Workflow automation saved 20 hours per week per team.", "New product launched from idea to production in 12 weeks."],
+    "caseStudyTitle": "From idea to production in 12 weeks",
+    "caseStudyHref": "/case-studies"
+  },
+  "cybersecurity": {
+    "id": "cybersecurity",
+    "title": "Cybersecurity",
+    "tagline": "Assess, protect, and comply",
+    "description": "We help organizations strengthen security posture through assessments, secure development practices, and compliance support. From penetration testing to DevSecOps, we reduce risk.",
+    "whatWeOffer": ["Security assessments & pen testing", "Secure SDLC & DevSecOps", "Compliance (SOC 2, ISO 27001, GDPR)", "Identity & access management", "Incident response readiness", "Security training"],
+    "outcomes": ["Vulnerability assessment led to critical fixes before launch.", "SOC 2 Type II achieved with our guidance in 6 months.", "DevSecOps pipeline blocked 100+ issues in first quarter."],
+    "caseStudyTitle": "SOC 2 Type II in 6 months",
+    "caseStudyHref": "/case-studies"
+  },
+  "data-analytics": {
+    "id": "data-analytics",
+    "title": "Data Analytics & Insights",
+    "tagline": "Turn data into decisions",
+    "description": "We design and build data pipelines, warehouses, and analytics solutions. From dashboards and reporting to ML-driven insights, we help you make data-driven decisions at scale.",
+    "whatWeOffer": ["Data strategy & architecture", "ETL/ELT & data warehouses", "BI & dashboards (Power BI, Tableau, custom)", "Advanced analytics & ML", "Real-time & streaming", "Data governance & quality"],
+    "outcomes": ["Unified data platform replaced 15+ spreadsheets; reporting time cut 80%.", "Predictive model improved demand forecasting accuracy by 25%.", "Real-time dashboard reduced operational response time by 50%."],
+    "caseStudyTitle": "Unified data platform cut reporting time by 80%",
+    "caseStudyHref": "/case-studies"
+  },
+  "d365-crm": {
+    "id": "d365-crm",
+    "title": "MS D365 CRM",
+    "tagline": "Customer engagement that scales",
+    "description": "We implement and extend Microsoft Dynamics 365 Customer Engagement (Sales, Customer Service, Marketing) to unify customer data and streamline sales and service processes.",
+    "whatWeOffer": ["D365 Sales & Customer Service", "Marketing automation", "Custom entities & workflows", "Power Platform integration", "Integrations (ERP, marketing, support)", "Training & adoption"],
+    "outcomes": ["Single customer view across sales, service, and marketing.", "Lead-to-opportunity conversion improved by 30%.", "Case resolution time reduced by 40% with automation."],
+    "caseStudyTitle": "Single customer view across sales and service",
+    "caseStudyHref": "/case-studies"
+  },
+  "power-apps": {
+    "id": "power-apps",
+    "title": "Power Apps",
+    "tagline": "Low-code apps and workflows",
+    "description": "We build canvas and model-driven apps, flows, and chatbots with Microsoft Power Platform. Rapid delivery for internal tools, approvals, and process automation without sacrificing governance.",
+    "whatWeOffer": ["Canvas & model-driven apps", "Power Automate flows", "Power Virtual Agents", "Dataverse & connectors", "D365 & SharePoint integration", "Governance & CoE"],
+    "outcomes": ["Field inspection app replaced paper; 500+ users in 2 months.", "Approval workflows cut processing time by 60%.", "Self-service portal reduced IT tickets by 40%."],
+    "caseStudyTitle": "Field inspection app: 500+ users in 2 months",
+    "caseStudyHref": "/case-studies"
+  },
+  "cloud-application": {
+    "id": "cloud-application",
+    "title": "Cloud Application",
+    "tagline": "Cloud-native apps that scale",
+    "description": "We design and build applications for AWS, Azure, and GCP — serverless, containers, and managed services. We focus on scalability, resilience, and cost efficiency.",
+    "whatWeOffer": ["Cloud architecture & design", "Serverless (Lambda, Functions)", "Containers (EKS, AKS, GKE)", "Managed DBs & caches", "API gateways & event-driven", "Cost optimization"],
+    "outcomes": ["Cloud-native app scaled to 10x traffic with no code changes.", "Serverless migration cut infrastructure cost by 50%.", "Multi-region deployment achieved 99.99% uptime."],
+    "caseStudyTitle": "How Cloud Computing Can Transform Small Businesses",
+    "caseStudyHref": "/blog"
+  },
+  "cloud-maintenance": {
+    "id": "cloud-maintenance",
+    "title": "Cloud Maintenance & Integration",
+    "tagline": "Ongoing cloud ops and integrations",
+    "description": "We keep your cloud workloads running smoothly: monitoring, patching, cost management, and third-party integrations. Proactive support so you can focus on product.",
+    "whatWeOffer": ["24/7 monitoring & alerting", "Patching & upgrades", "Cost monitoring & optimization", "Integration development & support", "Disaster recovery & backup", "Documentation & runbooks"],
+    "outcomes": ["Unplanned downtime reduced to near zero with proactive monitoring.", "Integration backlog cleared; 8 systems now connected.", "Cloud spend optimized; 25% savings without cutting performance."],
+    "caseStudyTitle": "Cloud spend optimized by 25%",
+    "caseStudyHref": "/case-studies"
+  },
+  "metaverse": {
+    "id": "metaverse",
+    "title": "Metaverse",
+    "tagline": "Immersive 3D and virtual experiences",
+    "description": "We create metaverse-style experiences: virtual events, showrooms, training environments, and branded spaces. From concept to deployment, we use real-time 3D and XR tech.",
+    "whatWeOffer": ["Virtual events & spaces", "3D environments (Unity, Unreal)", "Avatars & social features", "WebXR & spatial web", "Brand experiences", "Analytics & engagement"],
+    "outcomes": ["Virtual product launch reached 5x audience of in-person only.", "Training simulator reduced onboarding time by 40%.", "Virtual showroom increased engagement and lead quality."],
+    "caseStudyTitle": "Virtual product launch: 5x audience reach",
+    "caseStudyHref": "/case-studies"
+  },
+  "ar": {
+    "id": "ar",
+    "title": "Augmented Reality",
+    "tagline": "AR for retail, training, and marketing",
+    "description": "We build AR experiences for try-before-you-buy, training, maintenance, and campaigns. Mobile and wearable AR that drives engagement and measurable outcomes.",
+    "whatWeOffer": ["AR apps (iOS, Android)", "3D product visualization", "Try-on & placement", "Training & instructions", "Marketing campaigns", "Analytics & measurement"],
+    "outcomes": ["AR try-on increased conversion by 25% for fashion client.", "Maintenance AR reduced repair time by 30%.", "AR campaign drove 3x engagement vs. static content."],
+    "caseStudyTitle": "AR try-on increased conversion by 25%",
+    "caseStudyHref": "/case-studies"
+  },
+  "blockchain": {
+    "id": "blockchain",
+    "title": "Blockchain & Cryptography",
+    "tagline": "Decentralized apps and secure systems",
+    "description": "We design and build blockchain-based solutions: smart contracts, tokens, DeFi protocols, and enterprise DLT. From Ethereum and L2s to private chains, we deliver secure, auditable systems.",
+    "whatWeOffer": ["Smart contracts (Solidity, etc.)", "Token design & deployment", "DeFi & Web3 apps", "Private & consortium chains", "Security audits", "Wallets & key management"],
+    "outcomes": ["NFT platform processed 100K+ mints in first month.", "Supply chain pilot reduced fraud and improved traceability.", "Token launch and vesting contracts audited and deployed."],
+    "caseStudyTitle": "NFT platform: 100K+ mints in first month",
+    "caseStudyHref": "/case-studies"
+  },
+  "game-development": {
+    "id": "game-development",
+    "title": "Game Development",
+    "tagline": "Full-cycle game dev for multiple platforms",
+    "description": "We build games for mobile, PC, and console: design, art, programming, and live ops. From hyper-casual to mid-core, we help studios ship and scale hit titles.",
+    "whatWeOffer": ["Game design & GDD", "Unity & Unreal development", "Mobile (iOS, Android)", "Backend & multiplayer", "Live ops & analytics", "Porting & optimization"],
+    "outcomes": ["Mobile title reached 1M+ downloads in first quarter.", "Multiplayer game sustained 50K DAU with our backend.", "Port from PC to mobile completed in 3 months."],
+    "caseStudyTitle": "Mobile title hits 1M+ downloads in first quarter",
+    "caseStudyHref": "/case-studies"
+  },
+  "web3-gaming": {
+    "id": "web3-gaming",
+    "title": "Web3 Gaming",
+    "tagline": "Blockchain gaming and NFT integration",
+    "description": "We build play-to-earn and Web3 games: tokenomics, NFTs, marketplaces, and on-chain logic. We combine solid game design with secure, scalable blockchain integration.",
+    "whatWeOffer": ["Tokenomics & NFT design", "Smart contracts for games", "In-game economies", "Wallets & onboarding", "Marketplaces", "Community & retention"],
+    "outcomes": ["Web3 game integrated NFTs and marketplace; 10K+ MAU.", "Play-to-earn economy balanced and sustained over 12 months.", "Cross-chain bridge and staking went live without security issues."],
+    "caseStudyTitle": "Web3 game: 10K+ MAU with NFT marketplace",
+    "caseStudyHref": "/case-studies"
+  },
+  "arvr-gaming": {
+    "id": "arvr-gaming",
+    "title": "AR/VR/XR Gaming",
+    "tagline": "Immersive gaming with VR, AR, and XR",
+    "description": "We create VR, AR, and mixed-reality game experiences for headsets and mobile. From concept to store submission, we handle performance, comfort, and platform requirements.",
+    "whatWeOffer": ["VR (Quest, SteamVR, PSVR)", "AR games (mobile)", "XR & passthrough", "Performance & comfort", "Store submission (Quest, Steam)", "Multiplayer XR"],
+    "outcomes": ["VR title approved on Quest store; 4.5★ rating.", "AR game partnered with major brand for campaign.", "XR training module adopted by 20+ enterprises."],
+    "caseStudyTitle": "VR title approved on Quest: 4.5★ rating",
+    "caseStudyHref": "/case-studies"
+  },
+  "gaming-art": {
+    "id": "gaming-art",
+    "title": "Gaming Art & Design",
+    "tagline": "Concept art, 3D assets, and game UI",
+    "description": "We provide game art and design: concept art, characters, environments, 3D assets, animation, and UI/UX for games. Style-flexible and optimized for real-time engines.",
+    "whatWeOffer": ["Concept art & visual direction", "Characters & environments", "3D modeling & rigging", "Animation (2D & 3D)", "Game UI/UX", "Optimization for Unity/Unreal"],
+    "outcomes": ["Full art pipeline delivered for 3 titles in 18 months.", "Game UI redesign improved retention by 15%.", "Character art package reduced external dependency by 80%."],
+    "caseStudyTitle": "Full art pipeline for 3 titles in 18 months",
+    "caseStudyHref": "/case-studies"
+  },
+  "qa": {
+    "id": "qa",
+    "title": "Quality Assurance",
+    "tagline": "Testing and quality engineering",
+    "description": "We deliver manual and automated testing, performance testing, and quality engineering. We integrate with your CI/CD and help you ship with confidence.",
+    "whatWeOffer": ["Test strategy & planning", "Manual & exploratory testing", "Automation (Selenium, Cypress, etc.)", "API & load testing", "Mobile testing", "CI/CD integration"],
+    "outcomes": ["Regression suite automated; release cycle cut from 2 weeks to 3 days.", "Load testing found and fixed bottlenecks before launch.", "Defect escape rate reduced by 60% with new processes."],
+    "caseStudyTitle": "Regression automated: release cycle 2 weeks to 3 days",
+    "caseStudyHref": "/case-studies"
+  },
+  "saas": {
+    "id": "saas",
+    "title": "SaaS",
+    "tagline": "Build and scale SaaS with security and compliance",
+    "description": "We design and build multi-tenant SaaS products: subscription, billing, security, and scalability. From MVP to enterprise, we help you grow with confidence.",
+    "whatWeOffer": ["Multi-tenant architecture", "Subscription & billing (Stripe, etc.)", "Auth & RBAC", "Compliance (SOC 2, GDPR)", "Scalability & performance", "White-label & customization"],
+    "outcomes": ["SaaS MVP launched in 4 months; 1K paying users in 6.", "Enterprise tier added with SSO and audit logs.", "SOC 2 readiness achieved with our architecture and processes."],
+    "caseStudyTitle": "SaaS MVP to 1K paying users in 6 months",
+    "caseStudyHref": "/case-studies"
+  },
+  "cloud-migration": {
+    "id": "cloud-migration",
+    "title": "Cloud Migration & Cloud Ops",
+    "tagline": "Migrate to cloud and run with confidence",
+    "description": "We plan and execute lift-and-shift, refactor, and rearchitect migrations to AWS, Azure, or GCP. We also provide ongoing cloud operations and optimization.",
+    "whatWeOffer": ["Migration assessment & planning", "Lift-and-shift & refactor", "Data migration", "Cutover & validation", "Cloud ops & FinOps", "Training & documentation"],
+    "outcomes": ["50+ workloads migrated to Azure in 6 months with zero data loss.", "Post-migration optimization reduced spend by 30%.", "Disaster recovery tested and documented; RTO under 4 hours."],
+    "caseStudyTitle": "50+ workloads to Azure in 6 months",
+    "caseStudyHref": "/case-studies"
+  },
+  "ecommerce": {
+    "id": "ecommerce",
+    "title": "E-commerce",
+    "tagline": "Design, build, and grow online retail",
+    "description": "We deliver e-commerce solutions: Shopify, custom platforms, marketplaces, and headless. From design and development to maintenance and automation, we help you sell more.",
+    "whatWeOffer": ["Shopify & headless (Next.js, etc.)", "Marketplace & B2B", "Checkout & payments", "Inventory & orders", "Personalization & CRM", "Maintenance & support"],
+    "outcomes": ["Pakistan furniture leader's Shopify migration drove 55% growth.", "Fashion resale platform scaled to 100K monthly transactions.", "B2B portal reduced order errors by 80%."],
+    "caseStudyTitle": "Pakistan Furniture Leader's Shopify Migration Drives 55% Growth",
+    "caseStudyHref": "/case-studies"
+  },
+  "salesforce": {
+    "id": "salesforce",
+    "title": "Salesforce",
+    "tagline": "CRM, custom apps, and the Salesforce ecosystem",
+    "description": "We implement and extend Salesforce: Sales Cloud, Service Cloud, Experience Cloud, and custom apps on the platform. Integrations, automation, and long-term success.",
+    "whatWeOffer": ["Sales & Service Cloud", "Experience Cloud (portals)", "Custom objects & flows", "Integrations (ERP, marketing, support)", "Lightning & LWC", "Training & adoption"],
+    "outcomes": ["Sales Cloud rollout unified 5 regions; visibility and forecasting improved.", "Service Cloud cut average handle time by 25%.", "Custom app on Salesforce replaced legacy tool; license savings 40%."],
+    "caseStudyTitle": "Sales Cloud unified 5 regions",
+    "caseStudyHref": "/case-studies"
+  }
+}

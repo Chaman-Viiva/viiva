@@ -1,0 +1,162 @@
+{
+  "company": {
+    "name": "Viiva",
+    "fullName": "Viiva Smart IT Solutions",
+    "tagline": "Building at the Speed of AI",
+    "description": "Leading Software & Product Development Agency. We help companies across UK, Middle East, Africa and Asia Pacific with technological development.",
+    "ceo": { "name": "Ali Khalaf", "role": "CEO & Founder", "country": "Jordan" },
+    "locations": [
+      { "country": "United Kingdom", "code": "UK" },
+      { "country": "Jordan", "code": "JO" },
+      { "country": "Dubai", "code": "AE" },
+      { "country": "Pakistan", "code": "PK" }
+    ]
+  },
+  "nav": {
+    "logoAlt": "Viiva Smart IT Solutions",
+    "links": [
+      {
+        "label": "What we do",
+        "href": "/services",
+        "dropdown": true,
+        "children": [
+          { "label": "Digital Transformation", "href": "/services#digital-transformation" },
+          { "label": "Business Applications", "href": "/services#business-applications" },
+          { "label": "Emerging Technologies", "href": "/services#emerging-technologies" },
+          { "label": "Staff Augmentation", "href": "/services#staff-augmentation" },
+          { "label": "Quality Assurance", "href": "/services#qa" },
+          { "label": "DevOps", "href": "/services#devops" },
+          { "label": "Cybersecurity", "href": "/services#cybersecurity" },
+          { "label": "SaaS", "href": "/services#saas" },
+          { "label": "E-commerce", "href": "/services#ecommerce" },
+          { "label": "Gaming", "href": "/services#gaming" },
+          { "label": "Cloud", "href": "/services#cloud" }
+        ]
+      },
+      {
+        "label": "Who we help",
+        "href": "/industries",
+        "dropdown": true,
+        "children": [
+          { "label": "Travel & Hospitality", "href": "/industries#travel" },
+          { "label": "Public Sector", "href": "/industries#public-sector" },
+          { "label": "Telecommunication", "href": "/industries#telecom" },
+          { "label": "Retail & CPG", "href": "/industries#retail" },
+          { "label": "Oil, Gas & Energy", "href": "/industries#energy" },
+          { "label": "Startups", "href": "/industries#startups" },
+          { "label": "E-commerce", "href": "/industries#ecommerce" },
+          { "label": "Banking & Fintech", "href": "/industries#fintech" },
+          { "label": "Healthcare & Pharmaceuticals", "href": "/industries#healthcare" },
+          { "label": "Gaming", "href": "/industries#gaming" }
+        ]
+      },
+      {
+        "label": "Who We Are",
+        "href": "/about",
+        "dropdown": true,
+        "children": [
+          { "label": "About", "href": "/about" },
+          { "label": "Leadership", "href": "/about#leadership" },
+          { "label": "Geographies", "href": "/about#geographies" },
+          { "label": "Awards & Recognition", "href": "/about#awards" },
+          { "label": "ESG Values", "href": "/about#esg" },
+          { "label": "Code of Conduct & Values", "href": "/about#values" }
+        ]
+      },
+      {
+        "label": "How we deliver",
+        "href": "/case-studies",
+        "dropdown": true,
+        "children": [
+          { "label": "Blogs", "href": "/blog" },
+          { "label": "Thought Leadership", "href": "/blog" },
+          { "label": "Case Studies", "href": "/case-studies" },
+          { "label": "News", "href": "/blog" },
+          { "label": "Whitepapers", "href": "/blog" },
+          { "label": "Playbooks", "href": "/blog" },
+          { "label": "Perspective", "href": "/blog" },
+          { "label": "Podcast", "href": "/blog" },
+          { "label": "Client Testimonials", "href": "/about#testimonials" }
+        ]
+      },
+      { "label": "Join Viiva", "href": "/careers" },
+      { "label": "Contact", "href": "/contact" }
+    ],
+    "cta": [
+      { "label": "Explore Careers", "href": "/careers" },
+      { "label": "Let's Talk Business", "href": "/contact", "primary": true }
+    ]
+  },
+  "footer": {
+    "description": "Viiva Smart IT Solutions — Leading software development across UK, Jordan, Dubai, and Pakistan. Mobile apps, web development, SaaS, and AI solutions.",
+    "sections": [
+      {
+        "title": "Company",
+        "links": [
+          { "label": "Home", "href": "/" },
+          { "label": "About", "href": "/about" },
+          { "label": "Reviews", "href": "/about#reviews" },
+          { "label": "Careers", "href": "/careers" },
+          { "label": "Referrals", "href": "/contact" }
+        ]
+      },
+      {
+        "title": "Industries We Serve",
+        "links": [
+          { "label": "Travel & Hospitality", "href": "/industries#travel" },
+          { "label": "Public Sector", "href": "/industries#public-sector" },
+          { "label": "Telecommunication", "href": "/industries#telecom" },
+          { "label": "Retail & CPG", "href": "/industries#retail" },
+          { "label": "Oil, Gas & Energy", "href": "/industries#energy" },
+          { "label": "Startups", "href": "/industries#startups" },
+          { "label": "E-commerce", "href": "/industries#ecommerce" },
+          { "label": "Banking & Fintech", "href": "/industries#fintech" },
+          { "label": "Healthcare & Pharmaceuticals", "href": "/industries#healthcare" },
+          { "label": "Gaming", "href": "/industries#gaming" }
+        ]
+      },
+      {
+        "title": "Services & Solutions",
+        "links": [
+          { "label": "Cybersecurity", "href": "/services#cybersecurity" },
+          { "label": "Generative AI", "href": "/services#generative-ai" },
+          { "label": "Web Development", "href": "/services#web-development" },
+          { "label": "Mobile App Development", "href": "/services#mobile-app" },
+          { "label": "Custom Software Development", "href": "/services#custom-software" },
+          { "label": "UI/UX Design", "href": "/services#ui-ux" },
+          { "label": "DevOps", "href": "/services#devops" },
+          { "label": "Staff Augmentation", "href": "/services#staff-augmentation" },
+          { "label": "Quality Assurance", "href": "/services#qa" },
+          { "label": "SaaS", "href": "/services#saas" },
+          { "label": "E-commerce", "href": "/services#ecommerce" },
+          { "label": "Cloud", "href": "/services#cloud" }
+        ]
+      },
+      {
+        "title": "Resources",
+        "links": [
+          { "label": "Blogs", "href": "/blog" },
+          { "label": "Thought Leadership", "href": "/blog" },
+          { "label": "Case Studies", "href": "/case-studies" },
+          { "label": "Whitepapers", "href": "/blog" },
+          { "label": "Playbooks", "href": "/blog" },
+          { "label": "Perspective", "href": "/blog" },
+          { "label": "Podcast", "href": "/blog" },
+          { "label": "Client Testimonials", "href": "/about#testimonials" }
+        ]
+      }
+    ],
+    "offices": [
+      { "region": "Pakistan (Global Delivery Center)", "address": "Plot B, 281 Ghazi Rd, Khuda Buksh Colony KB Society, Lahore, Punjab" },
+      { "region": "UK (Regional Office)", "address": "128 City Road London, EC1V 2NX, United Kingdom" },
+      { "region": "USA (Regional Office)", "address": "18 S 2nd Street #120, San Jose, CA, 95113, United States" },
+      { "region": "UAE (Regional Office)", "address": "34HW+5J5 - Parkside Retail Level - Cluster R - Jumeirah Lakes Towers - Dubai" },
+      { "region": "KSA (Regional Office)", "address": "3141 Anas Ibn Malik Rd, Al Malqa, Riyadh 13521 KSA" },
+      { "region": "Jordan (Regional Office)", "address": "Amman, Jordan" }
+    ],
+    "contactEmail": "global.business@viiva.com",
+    "newsletterTitle": "Subscribe",
+    "newsletterSubtitle": "Stay updated with the latest in tech.",
+    "copyright": "Viiva © 2025. Terms and Conditions | Privacy Policy"
+  }
+}

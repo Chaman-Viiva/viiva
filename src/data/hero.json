@@ -1,0 +1,28 @@
+{
+  "headline": "Building at the Speed of AI",
+  "subheadline": "We help companies across UK, Middle East, Africa and Asia Pacific with technological development.",
+  "cta": { "label": "Get in Touch", "href": "/contact" },
+  "featuredIn": "Featured In:",
+  "featuredItems": [
+    { "title": "TechCrunch", "description": "Featured in leading tech coverage" },
+    { "title": "Forbes", "description": "Recognized in business & innovation" },
+    { "title": "Gartner", "description": "Included in industry research" },
+    { "title": "Clutch", "description": "Top-rated development partner" },
+    { "title": "Inc. 5000", "description": "Among fastest-growing companies" },
+    { "title": "Deloitte", "description": "Technology fast 500 recognition" }
+  ],
+  "partnerLogos": [
+    { "name": "Tech Partner 1", "image": "/partners/partner-1.svg" },
+    { "name": "Tech Partner 2", "image": "/partners/partner-2.svg" },
+    { "name": "Tech Partner 3", "image": "/partners/partner-3.svg" },
+    { "name": "Tech Partner 4", "image": "/partners/partner-4.svg" },
+    { "name": "Tech Partner 5", "image": "/partners/partner-5.svg" }
+  ],
+  "clientLogos": [
+    { "name": "Client 1", "image": "/clients/client-1.svg" },
+    { "name": "Client 2", "image": "/clients/client-2.svg" },
+    { "name": "Client 3", "image": "/clients/client-3.svg" },
+    { "name": "Client 4", "image": "/clients/client-4.svg" },
+    { "name": "Client 5", "image": "/clients/client-5.svg" }
+  ]
+}

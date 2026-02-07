@@ -1,0 +1,16 @@
+{
+  "sectionTitle": "Discover Our Impact Across Industries",
+  "items": [
+    { "id": "fintech", "title": "Banking & Fintech", "icon": "finance", "href": "/industries/fintech" },
+    { "id": "healthcare", "title": "Healthcare & Pharma", "icon": "health", "href": "/industries/healthcare" },
+    { "id": "ecommerce", "title": "E-commerce", "icon": "cart", "href": "/industries/ecommerce" },
+    { "id": "startups", "title": "Startups", "icon": "rocket", "href": "/industries/startups" },
+    { "id": "retail", "title": "Retail & CPG", "icon": "store", "href": "/industries/retail" },
+    { "id": "travel", "title": "Travel & Hospitality", "icon": "travel", "href": "/industries/travel" },
+    { "id": "telecom", "title": "Telecommunication", "icon": "signal", "href": "/industries/telecom" },
+    { "id": "public", "title": "Public Sector", "icon": "government", "href": "/industries/public" },
+    { "id": "energy", "title": "Oil, Gas & Energy", "icon": "energy", "href": "/industries/energy" },
+    { "id": "gaming", "title": "Gaming", "icon": "gaming", "href": "/industries/gaming" }
+  ],
+  "cta": { "label": "Let's Talk Business", "href": "/contact" }
+}

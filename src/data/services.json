@@ -1,0 +1,33 @@
+{
+  "sectionTitle": "Our Services",
+  "sectionHeadline": "Transform Your Business",
+  "initialVisible": 12,
+  "items": [
+    { "id": "generative-ai", "title": "Generative AI", "description": "Leverage AI to automate operations, gain insights, and transform customer experiences.", "href": "/services/generative-ai" },
+    { "id": "dynamics-365-erp", "title": "Dynamics 365 ERP", "description": "Enterprise resource planning to streamline operations and drive growth.", "href": "/services/dynamics-365-erp" },
+    { "id": "mobile-app", "title": "Mobile App Development", "description": "Native and cross-platform mobile apps for iOS and Android.", "href": "/services/mobile-app" },
+    { "id": "staff-augmentation", "title": "Staff Augmentation", "description": "Scale your team with vetted developers and IT professionals.", "href": "/services/staff-augmentation" },
+    { "id": "devops", "title": "DevOps", "description": "CI/CD, infrastructure as code, and cloud-native delivery.", "href": "/services/devops" },
+    { "id": "ui-ux", "title": "UI/UX Design", "description": "User-centered design for web and mobile products.", "href": "/services/ui-ux" },
+    { "id": "web-development", "title": "Web Development", "description": "Custom web applications and responsive websites.", "href": "/services/web-development" },
+    { "id": "custom-software", "title": "Custom Software Development", "description": "Tailored software solutions for your business needs.", "href": "/services/custom-software" },
+    { "id": "cybersecurity", "title": "Cybersecurity", "description": "Security assessments, compliance, and threat protection.", "href": "/services/cybersecurity" },
+    { "id": "data-analytics", "title": "Data Analytics & Insights", "description": "Turn data into decisions with BI and analytics platforms.", "href": "/services/data-analytics" },
+    { "id": "d365-crm", "title": "MS D365 CRM", "description": "Microsoft Dynamics 365 Customer Engagement solutions.", "href": "/services/d365-crm" },
+    { "id": "power-apps", "title": "Power Apps", "description": "Low-code apps and workflows with Microsoft Power Platform.", "href": "/services/power-apps" },
+    { "id": "cloud-application", "title": "Cloud Application", "description": "Cloud-native application development and migration.", "href": "/services/cloud-application" },
+    { "id": "cloud-maintenance", "title": "Cloud Maintenance & Integration", "description": "Ongoing cloud ops and third-party integrations.", "href": "/services/cloud-maintenance" },
+    { "id": "metaverse", "title": "Metaverse", "description": "Immersive 3D environments and virtual experiences.", "href": "/services/metaverse" },
+    { "id": "ar", "title": "Augmented Reality", "description": "AR experiences for retail, training, and marketing.", "href": "/services/ar" },
+    { "id": "blockchain", "title": "Blockchain & Cryptography", "description": "Decentralized apps and secure digital systems.", "href": "/services/blockchain" },
+    { "id": "game-development", "title": "Game Development", "description": "Full-cycle game development for multiple platforms.", "href": "/services/game-development" },
+    { "id": "web3-gaming", "title": "Web3 Gaming", "description": "Blockchain-based gaming and NFT integration.", "href": "/services/web3-gaming" },
+    { "id": "arvr-gaming", "title": "AR/VR/XR Gaming", "description": "Immersive gaming with VR, AR, and extended reality.", "href": "/services/arvr-gaming" },
+    { "id": "gaming-art", "title": "Gaming Art & Design", "description": "Concept art, 3D assets, and game UI/UX.", "href": "/services/gaming-art" },
+    { "id": "qa", "title": "Quality Assurance", "description": "Testing, automation, and quality engineering.", "href": "/services/qa" },
+    { "id": "saas", "title": "SaaS", "description": "Build and scale SaaS products with security and compliance.", "href": "/services/saas" },
+    { "id": "cloud-migration", "title": "Cloud Migration & Cloud Ops", "description": "Migrate to cloud and manage cloud operations.", "href": "/services/cloud-migration" },
+    { "id": "ecommerce", "title": "E-commerce", "description": "Design, development, maintenance, and automation for online retail.", "href": "/services/ecommerce" },
+    { "id": "salesforce", "title": "Salesforce", "description": "CRM implementation, custom apps, and Salesforce ecosystem.", "href": "/services/salesforce" }
+  ]
+}

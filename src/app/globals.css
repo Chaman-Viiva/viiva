@@ -1,0 +1,122 @@
+@import "tailwindcss";
+
+:root {
+  --viiva-red: #c41e3a;
+  --viiva-red-dark: #a01830;
+  --viiva-red-light: #e63950;
+  --viiva-black: #0a0a0a;
+  --viiva-black-soft: #141414;
+  --viiva-gray: #1a1a1a;
+  --viiva-gray-light: #2a2a2a;
+  --viiva-white: #fafafa;
+  --viiva-muted: #a3a3a3;
+  --background: var(--viiva-black);
+  --foreground: var(--viiva-white);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-viiva-red: var(--viiva-red);
+  --color-viiva-red-dark: var(--viiva-red-dark);
+  --color-viiva-black: var(--viiva-black);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), system-ui, sans-serif;
+}
+
+/* Red accent gradient */
+.gradient-viiva {
+  background: linear-gradient(135deg, var(--viiva-red) 0%, var(--viiva-red-dark) 100%);
+}
+
+.text-viiva-red {
+  color: var(--viiva-red);
+}
+
+.bg-viiva-red {
+  background-color: var(--viiva-red);
+}
+
+.border-viiva-red {
+  border-color: var(--viiva-red);
+}
+
+/* Section spacing */
+.section-padding {
+  @apply py-16 md:py-24 lg:py-28;
+}
+
+.container-narrow {
+  @apply mx-auto max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+/* Header: less horizontal padding so nav labels have more room */
+.header-container {
+  @apply mx-auto flex h-16 items-center justify-between px-3 sm:px-4 lg:px-6 xl:max-w-[1600px] xl:px-8 md:h-20;
+}
+
+/* Card hover lift */
+.hover-lift {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.hover-lift:hover {
+  transform: translateY(-4px);
+}
+
+/* Marquee animation for client logos */
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.animate-marquee {
+  animation: marquee 30s linear infinite;
+}
+
+/* Hover overlay: text slides in from bottom (awards) or left (featured) */
+.hover-slide-overlay {
+  @apply absolute inset-0 overflow-hidden rounded-xl;
+}
+.hover-slide-overlay-inner {
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* Slide from bottom */
+.hover-slide-from-bottom .hover-slide-overlay-inner {
+  @apply absolute bottom-0 left-0 right-0 flex flex-col justify-end p-3 text-center;
+  transform: translateY(100%);
+  background: linear-gradient(to top, rgba(10,10,10,0.96) 0%, transparent 70%);
+}
+.group:hover .hover-slide-from-bottom .hover-slide-overlay-inner {
+  transform: translateY(0);
+}
+/* Slide from left */
+.hover-slide-from-left .hover-slide-overlay-inner {
+  @apply absolute inset-0 flex items-center justify-center p-3 text-center;
+  transform: translateX(-100%);
+  background: linear-gradient(to right, rgba(10,10,10,0.94) 0%, rgba(10,10,10,0.6) 50%, transparent 100%);
+}
+.group:hover .hover-slide-from-left .hover-slide-overlay-inner {
+  transform: translateX(0);
+}
+
+/* Button styles */
+.btn-primary {
+  @apply inline-flex items-center justify-center rounded-lg bg-[var(--viiva-red)] px-6 py-3 font-semibold text-white transition-all hover:bg-[var(--viiva-red-dark)] focus:outline-none focus:ring-2 focus:ring-[var(--viiva-red)] focus:ring-offset-2 focus:ring-offset-[var(--viiva-black)];
+}
+
+.btn-outline {
+  @apply inline-flex items-center justify-center rounded-lg border-2 border-[var(--viiva-red)] px-6 py-3 font-semibold text-[var(--viiva-red)] transition-all hover:bg-[var(--viiva-red)] hover:text-white focus:outline-none focus:ring-2 focus:ring-[var(--viiva-red)] focus:ring-offset-2 focus:ring-offset-[var(--viiva-black)];
+}

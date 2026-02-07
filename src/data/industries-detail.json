@@ -1,0 +1,272 @@
+{
+  "fintech": {
+    "id": "fintech",
+    "title": "Banking & Fintech",
+    "tagline": "Secure, scalable technology that powers modern finance",
+    "description": "We help banks, payment providers, and fintechs build compliant, high-performance platforms — from core banking and payments to regtech, wealth tech, and blockchain.",
+    "impactStats": [
+      { "value": "50+", "label": "Fintech & banking projects" },
+      { "value": "99.9%", "label": "Uptime for critical systems" },
+      { "value": "40%", "label": "Faster time-to-market on average" }
+    ],
+    "solutions": [
+      "Core banking & payments platforms",
+      "Regtech & compliance automation",
+      "Wealth management & trading systems",
+      "Digital wallets & BNPL",
+      "Blockchain & crypto infrastructure",
+      "AI for fraud detection & risk"
+    ],
+    "outcomes": [
+      "US Fintech's AI financial modeling secured $2M+ funding with our platform.",
+      "Payment gateway processing 1M+ transactions daily with zero downtime.",
+      "Regulatory reporting automated, cutting manual effort by 60%."
+    ],
+    "caseStudyTitle": "US Fintech's AI Financial Modeling Secures $2M+ Funding",
+    "caseStudyHref": "/case-studies",
+    "icon": "finance"
+  },
+  "healthcare": {
+    "id": "healthcare",
+    "title": "Healthcare & Pharmaceuticals",
+    "tagline": "Technology that improves outcomes and compliance",
+    "description": "From EHR integration and telemedicine to clinical trials and pharma operations, we deliver HIPAA-aware, secure solutions that scale with your organization.",
+    "impactStats": [
+      { "value": "30+", "label": "Healthcare & pharma engagements" },
+      { "value": "HIPAA", "label": "Compliant by design" },
+      { "value": "3x", "label": "Faster patient onboarding in one rollout" }
+    ],
+    "solutions": [
+      "EHR/EMR integration & interoperability",
+      "Telemedicine & patient portals",
+      "Clinical trials & drug discovery platforms",
+      "Pharma supply chain & inventory",
+      "Healthcare analytics & BI",
+      "IoT & wearables for remote monitoring"
+    ],
+    "outcomes": [
+      "Telehealth platform serving 100K+ patients across multiple regions.",
+      "Clinical trial management system reduced data entry errors by 45%.",
+      "Pharma client cut time-to-market for new digital services by 50%."
+    ],
+    "caseStudyTitle": "Healthcare analytics platform drives better patient outcomes",
+    "caseStudyHref": "/case-studies",
+    "icon": "health"
+  },
+  "ecommerce": {
+    "id": "ecommerce",
+    "title": "E-commerce",
+    "tagline": "From storefront to scale — we power growth",
+    "description": "We design, build, and maintain e-commerce experiences on Shopify, custom platforms, and headless setups. From migration to marketplace and omnichannel, we deliver results.",
+    "impactStats": [
+      { "value": "55%", "label": "Growth in one Shopify migration" },
+      { "value": "100+", "label": "E-commerce stores launched" },
+      { "value": "24/7", "label": "Support & maintenance options" }
+    ],
+    "solutions": [
+      "Shopify & headless e-commerce",
+      "Marketplace & B2B platforms",
+      "Checkout & payment optimization",
+      "Inventory & order management",
+      "Personalization & recommendations",
+      "E-commerce analytics & CRM"
+    ],
+    "outcomes": [
+      "Pakistan furniture leader's Shopify migration drove 55% growth.",
+      "Fashion resale platform scaled to 100K monthly transactions.",
+      "B2B marketplace reduced order processing time by 70%."
+    ],
+    "caseStudyTitle": "Pakistan Furniture Leader's Shopify Migration Drives 55% Growth",
+    "caseStudyHref": "/case-studies",
+    "icon": "cart"
+  },
+  "startups": {
+    "id": "startups",
+    "title": "Startups",
+    "tagline": "From idea to MVP to scale — your technical co-founder",
+    "description": "We help startups move fast with lean teams, MVPs, and scalable architecture. From product strategy and design to development and DevOps, we're built for speed.",
+    "impactStats": [
+      { "value": "200+", "label": "Startups supported" },
+      { "value": "8 weeks", "label": "Typical MVP delivery" },
+      { "value": "$2M+", "label": "Funding enabled for clients" }
+    ],
+    "solutions": [
+      "Idea to MVP in weeks",
+      "Product strategy & technical due diligence",
+      "Full-stack web & mobile development",
+      "Staff augmentation & dedicated teams",
+      "Cloud & DevOps from day one",
+      "AI/ML integration & data pipelines"
+    ],
+    "outcomes": [
+      "US Fintech secured $2M+ funding with our AI financial modeling platform.",
+      "SaaS startup went from concept to 10K users in 6 months.",
+      "Mobile-first MVP validated and scaled to Series A."
+    ],
+    "caseStudyTitle": "From concept to 10K users in 6 months",
+    "caseStudyHref": "/case-studies",
+    "icon": "rocket"
+  },
+  "retail": {
+    "id": "retail",
+    "title": "Retail & CPG",
+    "tagline": "Omnichannel, inventory, and customer experience at scale",
+    "description": "We help retailers and CPG brands unify online and in-store experiences, optimize inventory and supply chain, and use data to drive loyalty and revenue.",
+    "impactStats": [
+      { "value": "40+", "label": "Retail & CPG projects" },
+      { "value": "35%", "label": "Improvement in inventory accuracy" },
+      { "value": "Omnichannel", "label": "Unified commerce solutions" }
+    ],
+    "solutions": [
+      "Omnichannel & unified commerce",
+      "POS & inventory management",
+      "Loyalty & personalization",
+      "Supply chain & demand forecasting",
+      "Retail analytics & BI",
+      "Mobile apps for staff & customers"
+    ],
+    "outcomes": [
+      "National retailer unified 200+ stores with one inventory system.",
+      "CPG brand increased repeat purchase rate by 25% with loyalty platform.",
+      "Demand forecasting reduced stockouts by 40%."
+    ],
+    "caseStudyTitle": "Unified commerce for 200+ store retailer",
+    "caseStudyHref": "/case-studies",
+    "icon": "store"
+  },
+  "travel": {
+    "id": "travel",
+    "title": "Travel & Hospitality",
+    "tagline": "Bookings, operations, and guest experience — seamlessly connected",
+    "description": "We build booking engines, property management integrations, OTA reconciliation, and guest experience platforms for hotels, airlines, and travel brands.",
+    "impactStats": [
+      { "value": "$300M+", "label": "OTA commissions reconciled (AI)" },
+      { "value": "20+", "label": "Travel & hospitality clients" },
+      { "value": "Automated", "label": "Reconciliation & reporting" }
+    ],
+    "solutions": [
+      "Booking engines & channel managers",
+      "OTA reconciliation & commission tracking",
+      "Property management system integration",
+      "Guest experience & loyalty apps",
+      "Revenue management & analytics",
+      "AI for pricing & demand"
+    ],
+    "outcomes": [
+      "Hospitality AI platform reconciles $300M+ in OTA commissions automatically.",
+      "Hotel group reduced manual reconciliation from days to minutes.",
+      "Travel app increased direct bookings by 30%."
+    ],
+    "caseStudyTitle": "Hospitality AI Platform Reconciles $300M+ in OTA Commissions",
+    "caseStudyHref": "/case-studies",
+    "icon": "travel"
+  },
+  "telecom": {
+    "id": "telecom",
+    "title": "Telecommunication",
+    "tagline": "Network ops, BSS/OSS, and customer platforms",
+    "description": "We support telecoms with BSS/OSS integration, customer portals, IoT connectivity platforms, and data analytics to improve operations and customer experience.",
+    "impactStats": [
+      { "value": "15+", "label": "Telecom engagements" },
+      { "value": "50%", "label": "Faster ticket resolution (portal)" },
+      { "value": "Real-time", "label": "Network & usage analytics" }
+    ],
+    "solutions": [
+      "BSS/OSS & billing systems",
+      "Customer self-service portals",
+      "IoT & M2M platforms",
+      "Network analytics & monitoring",
+      "CRM & campaign management",
+      "API gateways & partner integrations"
+    ],
+    "outcomes": [
+      "Self-service portal cut support tickets by 40%.",
+      "Real-time analytics platform improved network planning accuracy.",
+      "Billing integration reduced revenue leakage by 15%."
+    ],
+    "caseStudyTitle": "Self-service portal cuts support load by 40%",
+    "caseStudyHref": "/case-studies",
+    "icon": "signal"
+  },
+  "public": {
+    "id": "public",
+    "title": "Public Sector",
+    "tagline": "Secure, accessible digital services for government",
+    "description": "We help government and public bodies deliver citizen-facing services, internal tools, and data platforms with a focus on security, accessibility, and compliance.",
+    "impactStats": [
+      { "value": "10+", "label": "Public sector projects" },
+      { "value": "WCAG", "label": "Accessibility standards" },
+      { "value": "Secure", "label": "Hosting & data handling" }
+    ],
+    "solutions": [
+      "Citizen portals & digital services",
+      "Internal workflows & case management",
+      "Data platforms & open data",
+      "Identity & access management",
+      "Compliance & audit trails",
+      "Legacy modernization"
+    ],
+    "outcomes": [
+      "Citizen portal reduced in-person visits by 60%.",
+      "Case management system cut processing time by 50%.",
+      "Open data platform increased transparency and reuse."
+    ],
+    "caseStudyTitle": "Citizen portal reduces in-person visits by 60%",
+    "caseStudyHref": "/case-studies",
+    "icon": "government"
+  },
+  "energy": {
+    "id": "energy",
+    "title": "Oil, Gas & Energy",
+    "tagline": "Asset management, operations, and sustainability",
+    "description": "We support oil, gas, and energy companies with asset management, field operations, IoT monitoring, and sustainability reporting — from upstream to utilities.",
+    "impactStats": [
+      { "value": "12+", "label": "Energy sector projects" },
+      { "value": "30%", "label": "Faster asset inspection (digital)" },
+      { "value": "ESG", "label": "Reporting & dashboards" }
+    ],
+    "solutions": [
+      "Asset management & maintenance",
+      "Field operations & mobility",
+      "IoT & sensor integration",
+      "Sustainability & ESG reporting",
+      "Energy trading & analytics",
+      "Legacy system integration"
+    ],
+    "outcomes": [
+      "Asset management platform reduced unplanned downtime by 25%.",
+      "Digital field forms cut inspection time by 30%.",
+      "ESG reporting automated for group-wide compliance."
+    ],
+    "caseStudyTitle": "Asset management reduces unplanned downtime by 25%",
+    "caseStudyHref": "/case-studies",
+    "icon": "energy"
+  },
+  "gaming": {
+    "id": "gaming",
+    "title": "Gaming",
+    "tagline": "Full-cycle game dev, Web3, and live ops",
+    "description": "From mobile and PC games to Web3 and AR/VR, we deliver art, design, development, and live ops. We help studios ship and scale hit titles.",
+    "impactStats": [
+      { "value": "25+", "label": "Games & gaming projects" },
+      { "value": "Web3 & AR/VR", "label": "Emerging formats" },
+      { "value": "Live ops", "label": "Ongoing support & updates" }
+    ],
+    "solutions": [
+      "Game development (mobile, PC, console)",
+      "Web3 & blockchain gaming",
+      "AR/VR/XR experiences",
+      "Game art & design",
+      "Live ops & analytics",
+      "Backend & multiplayer infrastructure"
+    ],
+    "outcomes": [
+      "Mobile title reached 1M+ downloads in first quarter.",
+      "Web3 game integrated NFTs and marketplace successfully.",
+      "Live ops and A/B testing increased retention by 20%."
+    ],
+    "caseStudyTitle": "Mobile title hits 1M+ downloads in first quarter",
+    "caseStudyHref": "/case-studies",
+    "icon": "gaming"
+  }
+}

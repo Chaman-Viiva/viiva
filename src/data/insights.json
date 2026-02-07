@@ -1,0 +1,50 @@
+{
+  "sectionTitle": "Featured Insights",
+  "sectionHeadline": "Stories of our transformations across Services and Industries",
+  "subheadline": "From Concept to Completion",
+  "ctaLabel": "Explore More",
+  "items": [
+    {
+      "id": "1",
+      "type": "Case Study",
+      "title": "UK Fashion Resale Platform Scales to 100K Monthly Transactions",
+      "image": "/insights/case-1.webp",
+      "href": "/case-studies"
+    },
+    {
+      "id": "2",
+      "type": "Blog",
+      "title": "How Cloud Computing Can Transform Small Businesses",
+      "image": "/insights/blog-1.webp",
+      "href": "/blog/how-cloud-computing-transform-small-businesses"
+    },
+    {
+      "id": "3",
+      "type": "Blog",
+      "title": "Custom Web Application Development: Everything You Need to Know",
+      "image": "/insights/blog-2.webp",
+      "href": "/blog/custom-web-application-development"
+    },
+    {
+      "id": "4",
+      "type": "Blog",
+      "title": "Trends of Mobile Design: What's Next for Your Business?",
+      "image": "/insights/blog-3.webp",
+      "href": "/blog/trends-mobile-design"
+    },
+    {
+      "id": "5",
+      "type": "Blog",
+      "title": "How Generative AI is Transforming Business Operations",
+      "image": "/insights/blog-4.webp",
+      "href": "/blog/how-generative-ai-transforming-business"
+    },
+    {
+      "id": "6",
+      "type": "Case Study",
+      "title": "Hospitality AI Platform Reconciles $300M+ in OTA Commissions",
+      "image": "/insights/case-2.webp",
+      "href": "/case-studies"
+    }
+  ]
+}

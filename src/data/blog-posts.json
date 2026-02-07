@@ -1,0 +1,58 @@
+{
+  "how-cloud-computing-transform-small-businesses": {
+    "slug": "how-cloud-computing-transform-small-businesses",
+    "title": "How Cloud Computing Can Transform Small Businesses",
+    "excerpt": "Cloud computing levels the playing field for small businesses. Learn how to leverage scalability, cost savings, and innovation without heavy upfront investment.",
+    "date": "2025-01-15",
+    "author": "Viiva Team",
+    "imageSeed": "blog-cloud",
+    "content": [
+      "Small businesses often face the same technology demands as larger enterprises—scalability, security, and access to the latest tools—but with tighter budgets. Cloud computing has changed that equation.",
+      "By moving infrastructure and applications to the cloud, small businesses can scale on demand, pay only for what they use, and access enterprise-grade security and innovation. From hosted email and file storage to full ERP and customer-facing applications, the cloud enables agility without large capital expenditure.",
+      "At Viiva, we help small and mid-size businesses plan and execute cloud migrations, choose the right platforms (AWS, Azure, or GCP), and build cloud-native applications that grow with you. Whether you're moving off legacy servers or building something new, the cloud can transform how you operate and compete.",
+      "Key benefits we see time and again: reduced IT overhead, faster deployment of new features, better disaster recovery, and the ability to support remote and hybrid teams. If you're curious about where to start, we're happy to discuss your goals and outline a practical path to the cloud."
+    ]
+  },
+  "custom-web-application-development": {
+    "slug": "custom-web-application-development",
+    "title": "Custom Web Application Development: Everything You Need to Know",
+    "excerpt": "When off-the-shelf software isn't enough, custom web applications give you full control. Here's what goes into planning, building, and maintaining a custom solution.",
+    "date": "2025-01-22",
+    "author": "Viiva Team",
+    "imageSeed": "blog-webapp",
+    "content": [
+      "Custom web applications are built to fit your exact processes, integrate with your systems, and evolve with your business. Unlike generic SaaS or spreadsheets, a custom app can automate workflows, unify data, and provide a tailored experience for your users.",
+      "The journey typically starts with discovery: understanding your goals, users, and constraints. From there we define scope, choose the right tech stack (e.g. React, Next.js, .NET), and design an architecture that's secure, scalable, and maintainable. Development is usually iterative—you see progress early and can adjust as you learn.",
+      "Ongoing maintenance and support are part of the picture. We design for long-term ownership: clear code, documentation, and the option to hand over to your team or keep working with us. Many of our clients start with one application and expand to a suite of internal or customer-facing tools.",
+      "If you're weighing custom development against buying or extending an existing product, we can help you compare options and outline what a custom solution would look like for your use case."
+    ]
+  },
+  "trends-mobile-design": {
+    "slug": "trends-mobile-design",
+    "title": "Trends of Mobile Design: What's Next for Your Business?",
+    "excerpt": "Mobile design continues to evolve with new patterns, accessibility standards, and platform capabilities. Here are the trends that matter for your next app.",
+    "date": "2025-02-01",
+    "author": "Viiva Team",
+    "imageSeed": "blog-mobile",
+    "content": [
+      "Mobile isn't just smaller desktop—it's the primary way many users interact with your brand. Design trends in 2025 emphasize clarity, accessibility, and seamless cross-device experiences.",
+      "We're seeing more use of bold typography, ample whitespace, and clear hierarchy to improve readability and reduce cognitive load. Dark mode and system-based theming are expected by users and improve comfort in low light. Accessibility (WCAG, screen readers, and touch targets) is no longer optional; it's a baseline that also improves usability for everyone.",
+      "On the interaction side, gestures and micro-interactions make apps feel responsive and modern. Progressive Web Apps (PWAs) and hybrid approaches continue to blur the line between web and native, giving businesses flexibility in how they reach users.",
+      "For your business, the right mobile strategy depends on your audience and goals. Whether you're building a consumer app, a B2B tool, or an internal productivity app, we help you align design and technology with outcomes—so your app not only looks good but drives engagement and results."
+    ]
+  },
+  "how-generative-ai-transforming-business": {
+    "slug": "how-generative-ai-transforming-business",
+    "title": "How Generative AI is Transforming Business Operations",
+    "excerpt": "Generative AI is moving from experiment to production. See how leading organizations are using it to automate, personalize, and innovate.",
+    "date": "2025-02-10",
+    "author": "Viiva Team",
+    "imageSeed": "blog-ai",
+    "content": [
+      "Generative AI—from large language models to image and code generation—is reshaping how businesses operate. Use cases span customer service, content creation, internal knowledge retrieval, and development itself.",
+      "Practical applications we're implementing include: chatbots and virtual assistants that handle common queries and escalate when needed; RAG (retrieval-augmented generation) systems that ground AI in your own data for accurate, up-to-date answers; and content pipelines that assist with drafting, summarization, and localization. The key is to start with well-defined problems and measurable outcomes, then iterate.",
+      "Responsible deployment matters. We help clients think through accuracy, privacy, security, and governance. That includes choosing when to use off-the-shelf APIs versus fine-tuned or private models, and how to monitor and improve performance over time.",
+      "Whether you're exploring a first pilot or scaling an existing AI initiative, we can help you design, build, and operate generative AI solutions that fit your operations and risk posture."
+    ]
+  }
+}

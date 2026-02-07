@@ -1,0 +1,11 @@
+{
+  "sectionHeadline": "Pioneering Trust and Innovation — Viiva's Achievements",
+  "sectionSubheadline": "We take pride in empowering businesses worldwide with innovative solutions. Led by CEO Ali Khalaf from Jordan, our team brings an unwavering commitment to excellence, backed by a global presence across the UK, Jordan, Dubai, and Pakistan.",
+  "cta": { "label": "Get in Touch", "href": "/contact" },
+  "stats": [
+    { "value": "500+", "label": "Successful Projects" },
+    { "value": "4", "label": "Countries" },
+    { "value": "100+", "label": "Active Clients" },
+    { "value": "8+", "label": "Years of Experience" }
+  ]
+}
