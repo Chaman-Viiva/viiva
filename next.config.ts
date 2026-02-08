@@ -24,6 +24,13 @@ const nextConfig: NextConfig = {
         search: "",
         port: "",
       },
+      {
+        protocol: "https",
+        hostname: "logo.clearbit.com",
+        pathname: "/**",
+        search: "",
+        port: "",
+      },
     ],
   },
 };

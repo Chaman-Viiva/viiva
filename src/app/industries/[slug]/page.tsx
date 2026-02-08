@@ -5,6 +5,7 @@ import Image from "next/image";
 import siteData from "@/data/site.json";
 import industriesData from "@/data/industries.json";
 import industriesDetail from "@/data/industries-detail.json";
+import IndustriesGrid from "@/components/IndustriesGrid";
 
 const iconMap: Record<string, string> = {
   finance: "💰",
@@ -197,36 +198,14 @@ export default async function IndustryDetailPage({
       {/* Other industries */}
       <section className="section-padding border-t border-white/10 bg-[var(--viiva-black-soft)]">
         <div className="container-narrow">
-          <h2 className="text-3xl font-bold md:text-4xl">
-            {industriesData.sectionTitle}
-          </h2>
-          <div className="mt-10 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-            {industriesData.items
+          <IndustriesGrid
+            items={industriesData.items
               .filter((item) => item.id !== slug)
-              .slice(0, 6)
-              .map((item) => (
-                <Link
-                  key={item.id}
-                  href={`/industries/${item.id}`}
-                  className="group flex items-center justify-between rounded-xl border border-white/10 bg-[var(--viiva-gray)] px-6 py-4 transition hover:border-[var(--viiva-red)]/50 hover:bg-[var(--viiva-gray-light)]"
-                >
-                  <span className="text-2xl" aria-hidden>
-                    {iconMap[item.icon] || "📌"}
-                  </span>
-                  <span className="font-medium text-white group-hover:text-[var(--viiva-red)]">
-                    {item.title}
-                  </span>
-                  <span className="text-[var(--viiva-red)] opacity-0 transition group-hover:opacity-100">
-                    →
-                  </span>
-                </Link>
-              ))}
-          </div>
-          <div className="mt-8 text-center">
-            <Link href="/industries" className="btn-outline">
-              View all industries
-            </Link>
-          </div>
+              .slice(0, 6)}
+            title={industriesData.sectionTitle}
+            cta={{ href: "/industries", label: "View all industries" }}
+            ctaVariant="outline"
+          />
         </div>
       </section>
     </main>

@@ -2,23 +2,11 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import siteData from "@/data/site.json";
 import industriesData from "@/data/industries.json";
+import IndustriesGrid from "@/components/IndustriesGrid";
 
 export const metadata: Metadata = {
   title: `Industries | ${siteData.company.name} — Who We Help`,
   description: "Viiva serves Travel & Hospitality, Fintech, Healthcare, E-commerce, Startups, and more.",
-};
-
-const iconMap: Record<string, string> = {
-  finance: "💰",
-  health: "🏥",
-  cart: "🛒",
-  rocket: "🚀",
-  store: "🏪",
-  travel: "✈️",
-  signal: "📡",
-  government: "🏛️",
-  energy: "⚡",
-  gaming: "🎮",
 };
 
 export default function IndustriesPage() {
@@ -42,34 +30,11 @@ export default function IndustriesPage() {
 
       <section className="section-padding border-t border-white/10 bg-[var(--viiva-black-soft)]">
         <div className="container-narrow">
-          <h2 className="text-3xl font-bold md:text-4xl">
-            {industriesData.sectionTitle}
-          </h2>
-          <div className="mt-12 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-            {industriesData.items.map((item) => (
-              <Link
-                key={item.id}
-                href={`/industries/${item.id}`}
-                id={item.id}
-                className="group flex items-center justify-between rounded-xl border border-white/10 bg-[var(--viiva-gray)] px-6 py-4 transition hover:border-[var(--viiva-red)]/50 hover:bg-[var(--viiva-gray-light)]"
-              >
-                <span className="text-2xl" aria-hidden>
-                  {iconMap[item.icon] || "📌"}
-                </span>
-                <span className="font-medium text-white group-hover:text-[var(--viiva-red)]">
-                  {item.title}
-                </span>
-                <span className="text-[var(--viiva-red)] opacity-0 transition group-hover:opacity-100">
-                  →
-                </span>
-              </Link>
-            ))}
-          </div>
-          <div className="mt-12 text-center">
-            <Link href="/contact" className="btn-primary">
-              {industriesData.cta.label}
-            </Link>
-          </div>
+          <IndustriesGrid
+            items={industriesData.items}
+            title={industriesData.sectionTitle}
+            cta={industriesData.cta}
+          />
         </div>
       </section>
     </main>

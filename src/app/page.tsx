@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Hero from "@/components/Hero";
+import ClientLogosMarquee from "@/components/ClientLogosMarquee";
 import Services from "@/components/Services";
 import Industries from "@/components/Industries";
 import AwardsPartnerships from "@/components/AwardsPartnerships";
@@ -13,6 +14,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
+      <ClientLogosMarquee />
       <Services />
       <Industries />
       <AwardsPartnerships />

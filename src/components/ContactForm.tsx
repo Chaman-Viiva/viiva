@@ -44,19 +44,22 @@ export default function ContactForm() {
                   placeholder={field.label}
                 />
               ) : field.type === "select" ? (
-                <select
-                  id={field.name}
-                  name={field.name}
-                  required={field.required}
-                  className="w-full rounded-lg border border-white/20 bg-[var(--viiva-gray)] px-4 py-3 text-white focus:border-[var(--viiva-red)] focus:outline-none focus:ring-1 focus:ring-[var(--viiva-red)]"
-                >
-                  <option value="">Select...</option>
-                  {field.options?.map((opt) => (
-                    <option key={opt} value={opt}>
-                      {opt}
-                    </option>
-                  ))}
-                </select>
+                <div className="relative">
+                  <select
+                    id={field.name}
+                    name={field.name}
+                    required={field.required}
+                    className="w-full appearance-none rounded-lg border border-white/20 bg-[var(--viiva-gray)] py-3 pl-4 pr-10 text-white focus:border-[var(--viiva-red)] focus:outline-none focus:ring-1 focus:ring-[var(--viiva-red)]"
+                  >
+                    <option value="">Select...</option>
+                    {field.options?.map((opt) => (
+                      <option key={opt} value={opt}>
+                        {opt}
+                      </option>
+                    ))}
+                  </select>
+                  <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-xs text-white/70" aria-hidden>▼</span>
+                </div>
               ) : (
                 <input
                   id={field.name}
